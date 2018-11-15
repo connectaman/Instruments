@@ -1,0 +1,101 @@
+.first
+{
+	background:url(mainbg2.jpg);
+	background-size: cover;
+	background-position: center;
+}
+html
+{
+	height: 100%;
+	font-family: "Lato";
+}
+#content
+{
+	text-align: center;
+	padding-top: 25%;
+	color:black;
+	text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+                 0px 8px 13px rgba(0,0,0,0.1),
+                 0px 18px 23px rgba(0,0,0,0.1);
+}
+}
+.navbar-Title
+{
+   color: black;
+}
+hr
+{
+	color: white;
+	width: 500px;
+	border-top: 1px solid black;
+	border-bottom: 1px solid black;
+}
+h1
+{
+	font-weight: 700;
+	font-size: 4em;
+}
+#login
+{
+	background:white;
+}
+.form-control
+{
+    display: block;
+    width: 20%;
+    padding-left: 5%;
+}
+.abc
+{
+	padding-left: 5%;
+}
+.jumbotron
+{
+	background:url(Guitar.png);
+	background-size: cover;
+	background-position: center;
+	color:white;
+}
+
+ul
+{
+	padding-left: 5%;
+}
+a
+{
+    color: black;
+}
+.btn-outline-info 
+{
+     color: #17a2b8; 
+}
+.login1 {
+	text-align: center;
+	font-weight: 10em;
+	text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+                 0px 8px 13px rgba(0,0,0,0.1),
+                 0px 18px 23px rgba(0,0,0,0.1);
+}
+.falign{
+	padding-left: 26%;
+	padding-right: 25%;
+	padding-top: 1%;
+	padding-bottom: 1%;
+}
+.ffalign{
+	padding-left: 26%;
+	padding-right: 25%;
+}
+.fbalign{
+	padding-left: 45%;
+	padding-right: 25%;
+	padding-top: 1%;
+	padding-bottom: 1%;
+}
+}
+/*.btn-primary{
+	padding-left: 25%;
+	padding-right: 25%;
+	padding-top: 5%;
+
+}*/
