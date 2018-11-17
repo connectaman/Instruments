@@ -17,7 +17,7 @@
       <th scope="col">BRAND</th>
       <th scope="col">CATEGORY</th>
 	  <th scope="col">PRICE</th>
-	  <th scope="col">DESC</th>
+	  <th scope="col">DESCRIPTION</th>
     </tr>
   </thead>
   <tbody>
@@ -79,16 +79,6 @@ tr:hover{
 	background-color:black;
 	color:white;
 }
-
-
-
-
-
-
-
-
-
-
 
 </style>
 </html>
